@@ -1,0 +1,888 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 2401,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "SqBWPgAACAAJ",
+      "etag": "4t2rUyoDExA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SqBWPgAACAAJ",
+      "volumeInfo": {
+        "title": "Where the Wild Things are",
+        "authors": [
+          "LeapFrog (Firm)"
+        ],
+        "publishedDate": "2004",
+        "description": "Max sails to the land of the wild things, where he becomes their king.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1593191510"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781593191511"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 20,
+        "printType": "BOOK",
+        "categories": [
+          "Educational toys"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 4611,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=SqBWPgAACAAJ&dq=search+terms%3DWhere_the_Wild_Things_Are&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=SqBWPgAACAAJ&dq=search+terms%3DWhere_the_Wild_Things_Are&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Where_the_Wild_Things_are.html?hl=&id=SqBWPgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SqBWPgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Max sails to the land of the wild things, where he becomes their king."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QUUHEAAAQBAJ",
+      "etag": "9cohtRiNZ0k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QUUHEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Where the Wild Things Are Now",
+        "subtitle": "Domestication Reconsidered",
+        "authors": [
+          "Rebecca Cassidy",
+          "Molly Mullin"
+        ],
+        "publisher": "Routledge",
+        "publishedDate": "2020-07-12",
+        "description": "Domestication has often seemed a matter of the distant past, a series of distinct events involving humans and other species that took place long ago. Today, as genetic manipulation continues to break new barriers in scientific and medical research, we appear to be entering an age of biological control. Are we also writing a new chapter in the history of domestication? Where the Wild Things Are Now explores the relevance of domestication for anthropologists and scholars in related fields who are concerned with understanding ongoing change in processes affecting humans as well as other species. From the pet food industry and its critics to salmon farming in Tasmania, the protection of endangered species in Vietnam and the pigeon fanciers who influenced Darwin, Where the Wild Things Are Now provides an urgently needed re-examination of the concept of domestication against the shifting background of relationships between humans, animals and plants.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781000189889"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1000189880"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 336,
+        "printType": "BOOK",
+        "categories": [
+          "Social Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QUUHEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QUUHEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=QUUHEAAAQBAJ&pg=PT12&dq=search+terms%3DWhere_the_Wild_Things_Are&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=QUUHEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=QUUHEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 36.95,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 29.19,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=QUUHEAAAQBAJ&rdid=book-QUUHEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 36950000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 29190000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Where_the_Wild_Things_Are_Now-sample-epub.acsm?id=QUUHEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Where_the_Wild_Things_Are_Now-sample-pdf.acsm?id=QUUHEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QUUHEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In many of these cases, scholars are able to use this \u003cb\u003eterm\u003c/b\u003e because they are completely unconcerned with relationships ... This is not, therefore, a \u003cb\u003esearch\u003c/b\u003e for a definition that is somehow more “accurate,” but rather a plea for precision&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vKpNAQAAMAAJ",
+      "etag": "5n24u8MHplo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vKpNAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Where the Wild Things are",
+        "subtitle": "Locating the Exotic in German Modernity",
+        "authors": [
+          "Eric C. Ames"
+        ],
+        "publishedDate": "2000",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:C3447116"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 702,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=vKpNAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=vKpNAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=vKpNAQAAMAAJ&q=search+terms%3DWhere_the_Wild_Things_Are&dq=search+terms%3DWhere_the_Wild_Things_Are&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=vKpNAQAAMAAJ&dq=search+terms%3DWhere_the_Wild_Things_Are&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Where_the_Wild_Things_are.html?hl=&id=vKpNAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vKpNAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "He recalled his first encounter with the American in significant \u003cb\u003eterms\u003c/b\u003e , as a meeting between master and apprentice - a meeting in which these roles are reversed again and again . Traveling through Europe in \u003cb\u003esearch\u003c/b\u003e of new entertainments&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "j2n9DwAAQBAJ",
+      "etag": "qD1Yw1rNqS0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/j2n9DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Wild Things",
+        "subtitle": "The Disorder of Desire",
+        "authors": [
+          "Jack Halberstam"
+        ],
+        "publisher": "Duke University Press",
+        "publishedDate": "2020-10-23",
+        "description": "In Wild Things Jack Halberstam offers an alternative history of sexuality by tracing the ways in which wildness has been associated with queerness and queer bodies throughout the twentieth century. Halberstam theorizes the wild as an unbounded and unpredictable space that offers sources of opposition to modernity's orderly impulses. Wildness illuminates the normative taxonomies of sexuality against which radical queer practice and politics operate. Throughout, Halberstam engages with a wide variety of texts, practices, and cultural imaginaries—from zombies, falconry, and M. NourbeSe Philip's Zong! to Maurice Sendak's Where the Wild Things Are and the career of Irish anticolonial revolutionary Roger Casement—to demonstrate how wildness provides the means to know and to be in ways that transgress Euro-American notions of the modern liberal subject. With Wild Things, Halberstam opens new possibilities for queer theory and for wild thinking more broadly.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781478012627"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1478012625"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 240,
+        "printType": "BOOK",
+        "categories": [
+          "Social Science"
+        ],
+        "maturityRating": "MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=j2n9DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=j2n9DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=j2n9DwAAQBAJ&pg=PP1&dq=search+terms%3DWhere_the_Wild_Things_Are&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=j2n9DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=j2n9DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 25.95,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 15.31,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=j2n9DwAAQBAJ&rdid=book-j2n9DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 25950000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 15310000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Wild_Things-sample-epub.acsm?id=j2n9DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Wild_Things-sample-pdf.acsm?id=j2n9DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=j2n9DwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In Wild Things Jack Halberstam offers an alternative history of sexuality by tracing the ways in which wildness has been associated with queerness and queer bodies throughout the twentieth century."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bR0oCgAAQBAJ",
+      "etag": "MeIohGRZzNY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bR0oCgAAQBAJ",
+      "volumeInfo": {
+        "title": "The Marvels",
+        "authors": [
+          "Brian Selznick"
+        ],
+        "publisher": "Scholastic Inc.",
+        "publishedDate": "2015-09-15",
+        "description": "Don't miss Selznick's other novels in words and pictures, The Invention of Hugo Cabret and Wonderstruck, which together with The Marvels, form an extraordinary thematic trilogy! A breathtaking new voyage from Caldecott Medalist Brian Selznick.Two stand-alone stories--the first in nearly 400 pages of continuous pictures, the second in prose--create a beguiling narrative puzzle.The journey begins at sea in 1766, with a boy named Billy Marvel. After surviving a shipwreck, he finds work in a London theatre. There, his family flourishes for generations as brilliant actors until 1900, when young Leontes Marvel is banished from the stage.Nearly a century later, runaway Joseph Jervis seeks refuge with an uncle in London. Albert Nightingale's strange, beautiful house, with its mysterious portraits and ghostly presences, captivates Joseph and leads him on a search for clues about the house, his family, and the past.A gripping adventure and an intriguing invitation to decipher how the two stories connect, The Marvels is a loving tribute to the power of story from an artist at the vanguard of creative innovation.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780545922128"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0545922127"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 672,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 29,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.7.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=bR0oCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=bR0oCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=bR0oCgAAQBAJ&pg=PP1&dq=search+terms%3DWhere_the_Wild_Things_Are&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=bR0oCgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=bR0oCgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 21.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 21.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=bR0oCgAAQBAJ&rdid=book-bR0oCgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 21990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 21990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Marvels-sample-epub.acsm?id=bR0oCgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Marvels-sample-pdf.acsm?id=bR0oCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bR0oCgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Albert Nightingale&#39;s strange, beautiful house, with its mysterious portraits and ghostly presences, captivates Joseph and leads him on a search for clues about the house, his family, and the past.A gripping adventure and an intriguing ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "sQa7DAAAQBAJ",
+      "etag": "9m7A0R15oL0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/sQa7DAAAQBAJ",
+      "volumeInfo": {
+        "title": "Wild Things",
+        "authors": [
+          "Clay Carmichael"
+        ],
+        "publisher": "Boyds Mills Press",
+        "publishedDate": "2016-11-04",
+        "description": "A headstrong girl. A stray cat. A wild boy. A man who plays with fire. Eleven-year-old Zoë trusts no one. Her father left before she was born. At the death of her irresponsible mother, Zoë goes to live with her uncle, former surgeon and famed metal sculptor Dr. Henry Royster. She's sure Henry will fail her as everyone else has. Reclusive since his wife's death, Henry takes Zoë to Sugar Hill, North Carolina, where he welds sculptures as stormy as his moods. Zoë and Henry have much in common: brains, fiery and creative natures, and badly broken hearts. Zoë confronts small-town prejudice with a quick temper. She warms to Henry's odd but devoted friends, meets a mysterious teenage boy living wild in the neighboring woods, and works to win the trust of a feral cat while struggling to trust in anyone herself. In this ALA Notable Children's Book and Kirkus Reviews Best Children's Book of the Year, Zoë's questing spirit leads her to uncover the wild boy's identity, lay bare a local lie, and begin to understand the true power of Henry's art. Then one decisive night, she and the boy risk everything in a reckless act of heroism.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781629795898"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1629795895"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 248,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 8,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.7.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=sQa7DAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=sQa7DAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=sQa7DAAAQBAJ&printsec=frontcover&dq=search+terms%3DWhere_the_Wild_Things_Are&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=sQa7DAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=sQa7DAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 9.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=sQa7DAAAQBAJ&rdid=book-sQa7DAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 9990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Wild_Things-sample-epub.acsm?id=sQa7DAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Wild_Things-sample-pdf.acsm?id=sQa7DAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=sQa7DAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "ALA Notable Children’s Book Kirkus Reviews “Best Children’s Book of the Year” Winner of the North Carolina Juvenile Literature Award Winner of the NAPPA Gold Award A feisty tweenage orphan discovers what it means to love and be ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YHPmmt9VvF8C",
+      "etag": "wgIlUQf1qoM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YHPmmt9VvF8C",
+      "volumeInfo": {
+        "title": "Words about Pictures",
+        "subtitle": "The Narrative Art of Children's Picture Books",
+        "authors": [
+          "Perry Nodelman"
+        ],
+        "publisher": "University of Georgia Press",
+        "publishedDate": "1990-08-01",
+        "description": "A pioneering study of a unique narrative form, Words about Pictures examines the special qualities of picture books--books intended to educate or tell stories to young children. Drawing from a number of aesthetic and literary sources, Perry Nodelman explores the ways in which the interplay of the verbal and visual aspects of picture books conveys more narrative information and stimulation than either medium could achieve alone. Moving from \"baby\" books, alphabet books, and word books to such well-known children's picture books as Nancy Ekholm Burkert's Snow White and the Seven Dwarfs, Gerald McDermott's Arrow to the Sun, Maurice Sendak's Where the Wild Things Are, and Chris Van Allsburg's The Garden of Abdul Gasazi, Nodelman reveals how picture-book narrative is affected by the exclusively visual information of picture-book design and illustration as well as by the relationships between pictures and their complementary texts.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780820312712"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0820312711"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 353,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YHPmmt9VvF8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YHPmmt9VvF8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=YHPmmt9VvF8C&printsec=frontcover&dq=search+terms%3DWhere_the_Wild_Things_Are&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=YHPmmt9VvF8C&dq=search+terms%3DWhere_the_Wild_Things_Are&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Words_about_Pictures.html?hl=&id=YHPmmt9VvF8C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Words_about_Pictures-sample-epub.acsm?id=YHPmmt9VvF8C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Words_about_Pictures-sample-pdf.acsm?id=YHPmmt9VvF8C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YHPmmt9VvF8C&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A pioneering study of a unique narrative form, Words about Pictures examines the special qualities of picture books--books intended to educate or tell stories to young children."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LnBKZfTi2lEC",
+      "etag": "j4eUTLgQBSA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LnBKZfTi2lEC",
+      "volumeInfo": {
+        "title": "The Wild Things",
+        "authors": [
+          "Dave Eggers"
+        ],
+        "publisher": "Vintage Canada",
+        "publishedDate": "2010-03-02",
+        "description": "Max is a rambunctious eight-year-old, living with his mother and his sister, terrorizing the neighborhood on his bicycle. But Max's world is changing around him: His father is absent and his mother is increasingly distracted. Max's teenage sister is outgrowing him, leaving him alone in favor of her friends. Sad and angry, Max dons his wolf suit and makes terrible, ruinous mischief. Setting off into the night, Max finds a boat and sails away to an island. Here he meets strange and giant creatures. Creatures that rage and break things. Creatures that trample and scream. These monsters do everything Max feels inside! And so, Max appoints himself their king. Here, on a magnificent adventure with the creatures, Max can be the wildest thing of all. In this visionary new novel, Eggers brings an imaginary world vividly to life, filling it with monsters, chaos, and one very real little boy. By turns beautiful and joyful, sorrowful and strange, The Wild Things is an astonishing literary triumph.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780307399052"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0307399052"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 224,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 31,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LnBKZfTi2lEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LnBKZfTi2lEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=LnBKZfTi2lEC&printsec=frontcover&dq=search+terms%3DWhere_the_Wild_Things_Are&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=LnBKZfTi2lEC&dq=search+terms%3DWhere_the_Wild_Things_Are&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Wild_Things.html?hl=&id=LnBKZfTi2lEC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Wild_Things-sample-epub.acsm?id=LnBKZfTi2lEC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LnBKZfTi2lEC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Here, on a magnificent adventure with the creatures, Max can be the wildest thing of all. In this visionary new novel, Eggers brings an imaginary world vividly to life, filling it with monsters, chaos, and one very real little boy."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_1PvDwAAQBAJ",
+      "etag": "Y6mB+ZrM6OU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_1PvDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Where the Wild Things Are Now",
+        "subtitle": "Domestication Reconsidered",
+        "authors": [
+          "Rebecca Cassidy",
+          "Molly Mullin"
+        ],
+        "publisher": "Routledge",
+        "publishedDate": "2020-07-12",
+        "description": "Domestication has often seemed a matter of the distant past, a series of distinct events involving humans and other species that took place long ago. Today, as genetic manipulation continues to break new barriers in scientific and medical research, we appear to be entering an age of biological control. Are we also writing a new chapter in the history of domestication? Where the Wild Things Are Now explores the relevance of domestication for anthropologists and scholars in related fields who are concerned with understanding ongoing change in processes affecting humans as well as other species. From the pet food industry and its critics to salmon farming in Tasmania, the protection of endangered species in Vietnam and the pigeon fanciers who influenced Darwin, Where the Wild Things Are Now provides an urgently needed re-examination of the concept of domestication against the shifting background of relationships between humans, animals and plants.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781000183252"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1000183254"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 336,
+        "printType": "BOOK",
+        "categories": [
+          "Social Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_1PvDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_1PvDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=_1PvDwAAQBAJ&pg=PP1&dq=search+terms%3DWhere_the_Wild_Things_Are&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=_1PvDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=_1PvDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 36.95,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 29.19,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=_1PvDwAAQBAJ&rdid=book-_1PvDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 36950000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 29190000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Where_the_Wild_Things_Are_Now-sample-pdf.acsm?id=_1PvDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_1PvDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Where the Wild Things Are Now explores the relevance of domestication for anthropologists and scholars in related fields who are concerned with understanding ongoing change in processes affecting humans as well as other species."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tEfBDwAAQBAJ",
+      "etag": "YVLKRp9Oh3o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tEfBDwAAQBAJ",
+      "volumeInfo": {
+        "title": "In Search of the Fog Zombie",
+        "subtitle": "A Mystery about Matter",
+        "authors": [
+          "Lynda Beauregard"
+        ],
+        "publisher": "Millbrook Press",
+        "publishedDate": "2017-01-01",
+        "description": "Audisee® eBooks with Audio combine professional narration and sentence highlighting to engage reluctant readers! When campers arrive at Camp Dakota, rumors start flying. The Fog Zombie is on the prowl, moaning and creeping through the thick fog that often settles on the lake. At first, the kids don't believe the rumors—until they find mysterious clues leading to the zombie! Can the campers track down the Fog Zombie with their science smarts? Or will it find them first? Look in the back of the book for experiments and more to help you become a science detective too!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781512458091"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1512458090"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 48,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=tEfBDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=tEfBDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=tEfBDwAAQBAJ&pg=PP1&dq=search+terms%3DWhere_the_Wild_Things_Are&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=tEfBDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=tEfBDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 8.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 8.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=tEfBDwAAQBAJ&rdid=book-tEfBDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 8990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 8990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/In_Search_of_the_Fog_Zombie-sample-epub.acsm?id=tEfBDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/In_Search_of_the_Fog_Zombie-sample-pdf.acsm?id=tEfBDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tEfBDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Can the campers track down the Fog Zombie with their science smarts? Or will it find them first? Look in the back of the book for experiments and more to help you become a science detective too!"
+      }
+    }
+  ]
+}

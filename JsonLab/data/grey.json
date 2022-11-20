@@ -1,0 +1,930 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1078,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "Q3ujvgEACAAJ",
+      "etag": "4/qmlaxUsqE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Q3ujvgEACAAJ",
+      "volumeInfo": {
+        "title": "D.Gray-man, Vol. 14",
+        "authors": [
+          "Katsura Hoshino"
+        ],
+        "publisher": "VIZ Media LLC",
+        "publishedDate": "2009-08-04",
+        "description": "A cursed teenage boy saves mankind one soul at a time. Set in a fictional 19th century England, D.Gray-man is the story of Allen Walker, a 15-year-old boy who roams the earth in search of Innocence. Washed away to unknown parts of the world after The Great Flood, Innocence is the mysterious substance used to create weapons that obliterate demons known as akuma. Cross Marian is about to finish off Tyki Mikk when the Millennium Earl barges in, spreading chaos and destruction in every direction! The Earl's plan to build a new Ark using data downloads from the old one seems unstoppable, until Allen encounters a strange apparition that tells him to play the piano. Allen would be more than happy to oblige, but there's one slight problem--he never learned how!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "142152600X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781421526003"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 192,
+        "printType": "BOOK",
+        "categories": [
+          "Comics & Graphic Novels"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "comicsContent": true,
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Q3ujvgEACAAJ&dq=search+terms%3Dd_grey_man&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=Q3ujvgEACAAJ&dq=search+terms%3Dd_grey_man&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/D_Gray_man_Vol_14.html?hl=&id=Q3ujvgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Q3ujvgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "R to L (Japanese Style)."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0bXwAQAAQBAJ",
+      "etag": "6eCY9fo/84g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0bXwAQAAQBAJ",
+      "volumeInfo": {
+        "title": "D.Gray-man, Vol. 20",
+        "subtitle": "The Voice of Judah",
+        "authors": [
+          "Katsura Hoshino"
+        ],
+        "publisher": "VIZ Media LLC",
+        "publishedDate": "2011-09-26",
+        "description": "Teen exorcist Allen Walker is given his first assignment, and his perilous mission takes him to southern Italy, where an Innocence has been located. Along with fellow exorcist Kanda, and Tom, a \"finder\"--one of a support group for exorcists--Allen must vanquish the akuma that covets the Innocence. -- VIZ Media",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781421546797"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1421546795"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 188,
+        "printType": "BOOK",
+        "categories": [
+          "Comics & Graphic Novels"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": true,
+          "containsImageBubbles": true,
+          "epubBubbleVersion": "de1cd86ac12bb9ca",
+          "imageBubbleVersion": "de1cd86ac12bb9ca"
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0bXwAQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0bXwAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=0bXwAQAAQBAJ&pg=PA1&dq=search+terms%3Dd_grey_man&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=0bXwAQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=0bXwAQAAQBAJ",
+        "seriesInfo": {
+          "kind": "books#volume_series_info",
+          "shortSeriesBookTitle": "The Voice of Judah",
+          "bookDisplayNumber": "20",
+          "volumeSeries": [
+            {
+              "seriesId": "xWXcFwAAABAYcM",
+              "seriesBookType": "COLLECTED_EDITION",
+              "orderNumber": 20
+            }
+          ]
+        }
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 6.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 6.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=0bXwAQAAQBAJ&rdid=book-0bXwAQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 6990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 6990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/D_Gray_man_Vol_20-sample-epub.acsm?id=0bXwAQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/D_Gray_man_Vol_20-sample-pdf.acsm?id=0bXwAQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0bXwAQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Teen exorcist Allen Walker is given his first assignment, and his perilous mission takes him to southern Italy, where an Innocence has been located."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "O383wgEACAAJ",
+      "etag": "MaFOgANawRs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/O383wgEACAAJ",
+      "volumeInfo": {
+        "title": "D. Gray-man",
+        "authors": [
+          "Katsura Hoshino"
+        ],
+        "publisher": "VIZ Media LLC",
+        "publishedDate": "2012-12-04",
+        "description": "Set in a fictional 19th century England, D.Gray-man is the story of Allen Walker, a 15-year-old boy who roams the earth in search of Innocence. Washed away to unknown parts of the world after The Great Flood, Innocence is the mysterious substance used to create weapons that obliterate demons known as akuma. Reads R to L (Japanese Style) for teen plus audiences.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1421550857"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781421550855"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 200,
+        "printType": "BOOK",
+        "categories": [
+          "Comics & Graphic Novels"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "comicsContent": true,
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=O383wgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=O383wgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=O383wgEACAAJ&dq=search+terms%3Dd_grey_man&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=O383wgEACAAJ&dq=search+terms%3Dd_grey_man&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/D_Gray_man.html?hl=&id=O383wgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=O383wgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Set in a fictional 19th century England, D.Gray-man is the story of Allen Walker, a 15-year-old boy who roams the earth in search of Innocence."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vsSnxQEACAAJ",
+      "etag": "72JsO4U4W9s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vsSnxQEACAAJ",
+      "volumeInfo": {
+        "title": "D. Gray-Man",
+        "authors": [
+          "Katsura Hoshino"
+        ],
+        "publisher": "VIZ Media LLC",
+        "publishedDate": "2006-05-02",
+        "description": "Set in a fictional end of the 19th century England, the story revolves around a teenage boy named Allen Walker who is cursed with a cross mark on his hand that turns his arm into an enormous weapon, which he uses to hunt down and kill akumas. An akuma, generated by a 1,000-year-old phantom, is implanted into a human's soul during a moment of devastation and despair. The phantom uses the demons to then carry out his goal: destroy all humankind.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1421506238"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781421506234"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 208,
+        "printType": "BOOK",
+        "categories": [
+          "Comics & Graphic Novels"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "comicsContent": true,
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=vsSnxQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=vsSnxQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=vsSnxQEACAAJ&dq=search+terms%3Dd_grey_man&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=vsSnxQEACAAJ&dq=search+terms%3Dd_grey_man&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/D_Gray_Man.html?hl=&id=vsSnxQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vsSnxQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Set in a fictional end of the 19th century England, the story revolves around a teenage boy named Allen Walker who is cursed with a cross mark on his hand that turns his arm into an enormous weapon, which he uses to hunt down and kill ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MSPxAQAAQBAJ",
+      "etag": "zvRLyt6h1so",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MSPxAQAAQBAJ",
+      "volumeInfo": {
+        "title": "D.Gray-man, Vol. 15",
+        "subtitle": "Black Star, Red Star",
+        "authors": [
+          "Katsura Hoshino"
+        ],
+        "publisher": "VIZ Media LLC",
+        "publishedDate": "2011-07-15",
+        "description": "A Noah called Lulu Bell leads an army of Akuma against the exorcists in order to retrieve the Egg, a device that will enable the Millennium Earl to activate his new Ark. With most of the surviving exorcists incapacitated, it's up to Allen and Bookman to try to stop the Akuma from taking off with the Egg. But when the Akuma try to make off with Allen as well, all Hell really breaks loose! -- VIZ Media",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781421548555"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1421548550"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 190,
+        "printType": "BOOK",
+        "categories": [
+          "Comics & Graphic Novels"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": true,
+          "containsImageBubbles": true,
+          "epubBubbleVersion": "b6e2006955f776ac",
+          "imageBubbleVersion": "b6e2006955f776ac"
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MSPxAQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MSPxAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=MSPxAQAAQBAJ&pg=PP1&dq=search+terms%3Dd_grey_man&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=MSPxAQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=MSPxAQAAQBAJ",
+        "seriesInfo": {
+          "kind": "books#volume_series_info",
+          "shortSeriesBookTitle": "Black Star, Red Star",
+          "bookDisplayNumber": "15",
+          "volumeSeries": [
+            {
+              "seriesId": "xWXcFwAAABAYcM",
+              "seriesBookType": "COLLECTED_EDITION",
+              "orderNumber": 15
+            }
+          ]
+        }
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 6.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 6.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=MSPxAQAAQBAJ&rdid=book-MSPxAQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 6990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 6990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/D_Gray_man_Vol_15-sample-epub.acsm?id=MSPxAQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/D_Gray_man_Vol_15-sample-pdf.acsm?id=MSPxAQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MSPxAQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A Noah called Lulu Bell leads an army of Akuma against the exorcists in order to retrieve the Egg, a device that will enable the Millennium Earl to activate his new Ark."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "olcTBAAAQBAJ",
+      "etag": "LvLVNSF3TdA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/olcTBAAAQBAJ",
+      "volumeInfo": {
+        "title": "D.Gray-man, Vol. 24",
+        "subtitle": "By Your Side",
+        "authors": [
+          "Katsura Hoshino"
+        ],
+        "publisher": "VIZ Media LLC",
+        "publishedDate": "2014-08-05",
+        "description": "Allen, now joined by two companions, is still on the run and trying to deal with his demonic alter ego, the Fourteenth. This means avoiding erstwhile allies as well as overt enemies. He also has to prevent one of his companions, fellow Exorcist Kanda, from trying to destroy the Fourteenth while keeping the Fourteenth from destroying his other companion, Johnny, whose zealous devotion to Allen is gratifying but not much help in a fight! -- VIZ Media",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781421579443"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1421579448"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 183,
+        "printType": "BOOK",
+        "categories": [
+          "Comics & Graphic Novels"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": true,
+          "containsImageBubbles": true,
+          "epubBubbleVersion": "6d194bdcc1b6804b",
+          "imageBubbleVersion": "6d194bdcc1b6804b"
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=olcTBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=olcTBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=olcTBAAAQBAJ&printsec=frontcover&dq=search+terms%3Dd_grey_man&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=olcTBAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=olcTBAAAQBAJ",
+        "seriesInfo": {
+          "kind": "books#volume_series_info",
+          "shortSeriesBookTitle": "By Your Side",
+          "bookDisplayNumber": "24",
+          "volumeSeries": [
+            {
+              "seriesId": "xWXcFwAAABAYcM",
+              "seriesBookType": "COLLECTED_EDITION",
+              "orderNumber": 24
+            }
+          ]
+        }
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 6.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 6.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=olcTBAAAQBAJ&rdid=book-olcTBAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 6990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 6990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/D_Gray_man_Vol_24-sample-epub.acsm?id=olcTBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/D_Gray_man_Vol_24-sample-pdf.acsm?id=olcTBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=olcTBAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Allen, now joined by two companions, is still on the run and trying to deal with his demonic alter ego, the Fourteenth."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ao5dtwAACAAJ",
+      "etag": "A/MYmjYrUrw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ao5dtwAACAAJ",
+      "volumeInfo": {
+        "title": "D.gray-man 10",
+        "authors": [
+          "Katsura Hoshino"
+        ],
+        "publishedDate": "2008-08-05",
+        "description": "Cursed teenage boy saves mankind one soul at a time. Set in a fictional 19th century England, D.Gray-man is the story of Allen Walker, a 15-year-old boy who roams the Earth in search of Innocence. Washed away to unknown parts of the world after The Great Flood, Innocence is the mysterious substance used to create weapons that obliterate demons known as akuma. Hopelessly outnumbered by the Millennium Earl's forces, Lenalee, Lavi, and the rest of the survivors aboard Anita's ship face almost certain annihilation. Then, as if determined to make sure of it, the Noah enter the fray! But the harried agents of the Black Order refuse to throw in the towel, knowing this may be the last stand of the Exorcists. If any hope remains, it could reside with Allen Walker...but no one knows if they'll ever see him again!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1435226135"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781435226135"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Comics & Graphic Novels"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "comicsContent": true,
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ao5dtwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ao5dtwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ao5dtwAACAAJ&dq=search+terms%3Dd_grey_man&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=ao5dtwAACAAJ&dq=search+terms%3Dd_grey_man&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/D_gray_man_10.html?hl=&id=ao5dtwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ao5dtwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Cursed teenage boy saves mankind one soul at a time. Set in a fictional 19th century England, D.Gray-man is the story of Allen Walker, a 15-year-old boy who roams the Earth in search of Innocence."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ka_wAQAAQBAJ",
+      "etag": "/UKRGNwpB5w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ka_wAQAAQBAJ",
+      "volumeInfo": {
+        "title": "D.Gray-man, Vol. 19",
+        "subtitle": "Born of Love and Hate",
+        "authors": [
+          "Katsura Hoshino"
+        ],
+        "publisher": "VIZ Media LLC",
+        "publishedDate": "2011-09-12",
+        "description": "Following a brutal battle with a Level 4 akuma, Allen seems to be undergoing an odd and disturbing change. Meanwhile, a new breed of Exorcist is introduced at Black Order headquarters and, at Asia Branch, Kanda learns some disturbing things about his own status in the Black Order's Exorcist operations. Needless to say, Allen and his friends are ill prepared to deal with the simultaneous appearance of the servants of the Millennium Earl all over the world! -- VIZ Media",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781421546780"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1421546787"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 190,
+        "printType": "BOOK",
+        "categories": [
+          "Comics & Graphic Novels"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": true,
+          "containsImageBubbles": true,
+          "epubBubbleVersion": "d2101de4527ae03d",
+          "imageBubbleVersion": "d2101de4527ae03d"
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ka_wAQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ka_wAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ka_wAQAAQBAJ&pg=PA1&dq=search+terms%3Dd_grey_man&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ka_wAQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ka_wAQAAQBAJ",
+        "seriesInfo": {
+          "kind": "books#volume_series_info",
+          "shortSeriesBookTitle": "Born of Love and Hate",
+          "bookDisplayNumber": "19",
+          "volumeSeries": [
+            {
+              "seriesId": "xWXcFwAAABAYcM",
+              "seriesBookType": "COLLECTED_EDITION",
+              "orderNumber": 19
+            }
+          ]
+        }
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 6.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 6.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ka_wAQAAQBAJ&rdid=book-ka_wAQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 6990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 6990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/D_Gray_man_Vol_19-sample-epub.acsm?id=ka_wAQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/D_Gray_man_Vol_19-sample-pdf.acsm?id=ka_wAQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ka_wAQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Following a brutal battle with a Level 4 akuma, Allen seems to be undergoing an odd and disturbing change."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1Qi4zQEACAAJ",
+      "etag": "yQ5D8Il7LD0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1Qi4zQEACAAJ",
+      "volumeInfo": {
+        "title": "D. Gray-Man",
+        "subtitle": "Vol. 26",
+        "authors": [
+          "Katsura Hoshino"
+        ],
+        "publishedDate": "2020",
+        "description": "Allen has long been host to Nea, a dangerous entity also known as the Fourteenth. Nea was dormant, but he's since roused and is now dominant. Johnny, Allen's most stalwart ally, tries to restore Allen to consciousness, but can he manage it in time?",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1544443331"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781544443331"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 200,
+        "printType": "BOOK",
+        "categories": [
+          "Exorcism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=1Qi4zQEACAAJ&dq=search+terms%3Dd_grey_man&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=1Qi4zQEACAAJ&dq=search+terms%3Dd_grey_man&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/D_Gray_Man.html?hl=&id=1Qi4zQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1Qi4zQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Allen has long been host to Nea, a dangerous entity also known as the Fourteenth."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Za7wAQAAQBAJ",
+      "etag": "hORBndX20iU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Za7wAQAAQBAJ",
+      "volumeInfo": {
+        "title": "D.Gray-man, Vol. 18",
+        "subtitle": "Thief? Ghost? Innocense?",
+        "authors": [
+          "Katsura Hoshino"
+        ],
+        "publisher": "VIZ Media LLC",
+        "publishedDate": "2011-08-29",
+        "description": "It's been three months since Allen Walker's mentor, Cross Marian, pulled his latest disappearing act. Allen and fellow exorcist Kanda now learn of an odd new threat known only as G. G plans to steal a valuable crown from the Louvre, so Allen and Kanda join the local constabulary in trying to prevent the theft. This leads to a surprise discovery that could have no small significance for the future of the Black Order! -- VIZ Media",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781421546759"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1421546752"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 188,
+        "printType": "BOOK",
+        "categories": [
+          "Comics & Graphic Novels"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": true,
+          "containsImageBubbles": true,
+          "epubBubbleVersion": "dda538efbaf59104_A",
+          "imageBubbleVersion": "dda538efbaf59104_A"
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Za7wAQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Za7wAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Za7wAQAAQBAJ&pg=PA1&dq=search+terms%3Dd_grey_man&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Za7wAQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Za7wAQAAQBAJ",
+        "seriesInfo": {
+          "kind": "books#volume_series_info",
+          "shortSeriesBookTitle": "Theif? Ghost? Innocense?",
+          "bookDisplayNumber": "18",
+          "volumeSeries": [
+            {
+              "seriesId": "xWXcFwAAABAYcM",
+              "seriesBookType": "COLLECTED_EDITION",
+              "orderNumber": 18
+            }
+          ]
+        }
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 6.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 6.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Za7wAQAAQBAJ&rdid=book-Za7wAQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 6990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 6990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/D_Gray_man_Vol_18-sample-epub.acsm?id=Za7wAQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/D_Gray_man_Vol_18-sample-pdf.acsm?id=Za7wAQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Za7wAQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "It&#39;s been three months since Allen Walker&#39;s mentor, Cross Marian, pulled his latest disappearing act."
+      }
+    }
+  ]
+}

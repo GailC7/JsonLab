@@ -1,0 +1,773 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 2341,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "guDrDwAAQBAJ",
+      "etag": "ealuaMA2u/Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/guDrDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Hellsing Deluxe Volume 1",
+        "authors": [
+          "Kohta Hirano"
+        ],
+        "publisher": "Dark Horse Comics",
+        "publishedDate": "2020-07-14",
+        "description": "The international sensation returns in deluxe hardcover editions, collecting Kohta Hirano's manga masterpiece for the first time in its original 7x10 serialized format. This deluxe hardcover edition comes with an embossed casing, sewn binding, and ribbon marker. Renowned for its action-packed approach to horror, Hellsing is gruesome fun turned up to eleven! With supernatural horrors haunting the streets and preying upon humanity, the shadowy Hellsing Organization fights back against hell's minions. And Hellsing has a secret weapon in their arsenal: the vampire lord Alucard, whose terrifying powers are needed more than ever as an army of the undead marches on London beneath the banner of the swastika! Collects Hellsing chapters 1-27 from Hellsing Volumes 1-4.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781506715537"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1506715532"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 706,
+        "printType": "BOOK",
+        "categories": [
+          "Comics & Graphic Novels"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "comicsContent": true,
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=guDrDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=guDrDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=guDrDwAAQBAJ&pg=PP1&dq=search+terms%3DHellsing&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=guDrDwAAQBAJ&dq=search+terms%3DHellsing&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hellsing_Deluxe_Volume_1.html?hl=&id=guDrDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Hellsing_Deluxe_Volume_1-sample-pdf.acsm?id=guDrDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=guDrDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This deluxe hardcover edition comes with an embossed casing, sewn binding, and ribbon marker. Renowned for its action-packed approach to horror, Hellsing is gruesome fun turned up to eleven!"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WOvZQwAACAAJ",
+      "etag": "GG5U6cGawRo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WOvZQwAACAAJ",
+      "volumeInfo": {
+        "title": "Hellsing",
+        "subtitle": "Vol. 10",
+        "authors": [
+          "Kohta Hirano"
+        ],
+        "publishedDate": "2009",
+        "description": "Series synopsis: In a world where undead vampires and ghouls terrorise the night, Integra Hellsing heads an organization charged by the Queen of England with the eradication of this supernatural evil. However Iscariot, a Vatican agency, is charged with the extermination of all demons and heretics including those employed by Hellsing.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9812768874"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789812768872"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 188,
+        "printType": "BOOK",
+        "categories": [
+          "Comic books, strips, etc"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 15,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WOvZQwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WOvZQwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=WOvZQwAACAAJ&dq=search+terms%3DHellsing&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=WOvZQwAACAAJ&dq=search+terms%3DHellsing&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hellsing.html?hl=&id=WOvZQwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WOvZQwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Series synopsis: In a world where undead vampires and ghouls terrorise the night, Integra Hellsing heads an organization charged by the Queen of England with the eradication of this supernatural evil."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "r5QFEAAAQBAJ",
+      "etag": "5zu0JgbJva0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/r5QFEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Hellsing Deluxe Volume 2",
+        "authors": [
+          "Kohta Hirano"
+        ],
+        "publisher": "Dark Horse Comics",
+        "publishedDate": "2020-11-24",
+        "description": "The international manga bestseller returns in deluxe hardcover editions, collecting Kohta Hirano's horror epic for the first time in its original 7x10 serialized format. Featuring wall-to-wall action and mayhem, Hellsing is one-stop shopping for supersized supernatural pyschosis! The Hellsing Organization is under siege by the undead Nazi army of the Millennium Project, who are turning the streets of London into rivers of blood and the citizenry into a legion of abominations. And with this murderous conflict at a fever pitch, the Vatican sees an opportunity to take down both Millennium and Hellsing in one swift stroke! Collects Hellsing chapters 28-62 from Hellsing volumes 5-8.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781506720012"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1506720013"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 657,
+        "printType": "BOOK",
+        "categories": [
+          "Comics & Graphic Novels"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "comicsContent": true,
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=r5QFEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=r5QFEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=r5QFEAAAQBAJ&pg=PP1&dq=search+terms%3DHellsing&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=r5QFEAAAQBAJ&dq=search+terms%3DHellsing&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hellsing_Deluxe_Volume_2.html?hl=&id=r5QFEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Hellsing_Deluxe_Volume_2-sample-pdf.acsm?id=r5QFEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=r5QFEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The international manga bestseller returns in deluxe hardcover editions, collecting Kohta Hirano&#39;s horror epic for the first time in its original 7x10 serialized format."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WhM1twAACAAJ",
+      "etag": "H0kxI5+wLGw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WhM1twAACAAJ",
+      "volumeInfo": {
+        "title": "The Cantankerous Crow",
+        "authors": [
+          "Lennart Hellsing"
+        ],
+        "publishedDate": "1959",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1816151"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Crows"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=WhM1twAACAAJ&dq=search+terms%3DHellsing&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=WhM1twAACAAJ&dq=search+terms%3DHellsing&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Cantankerous_Crow.html?hl=&id=WhM1twAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WhM1twAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A family of crows lives close to a farmer. One day the farmer caught the brother crow stealing his cherries, and put the crow to work. But when the farmer told the crow to chop wood, he cut down the flag pole."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3gAvEAAAQBAJ",
+      "etag": "zgYW+feGrLo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3gAvEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Hellsing Deluxe Volume 3",
+        "authors": [
+          "Kohta Hirano"
+        ],
+        "publisher": "Dark Horse Comics",
+        "publishedDate": "2021-06-15",
+        "description": "The international hit manga series concludes in this deluxe hardcover edition, collecting Kohta Hirano's action- horror epic for the first time in its original 7x10 serialized format. Includes an extensive color gallery and all the author notes, character profiles, and bonus art, including color art not included in the original Dark Horse paperback editions. The curtain rises on the final act of the apocalyptic war between vampires, werewolves, fanatics, and mercenaries. Amidst the grisly wreckage that is now London, the champions of light and darkness face off in a final showdown that will determine the humanity's future . . . or its downfall! Collects Hellsing chapters 63-88 from Hellsing volumes 8-10, plus extras from volumes 1-10.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781506720029"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1506720021"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 712,
+        "printType": "BOOK",
+        "categories": [
+          "Comics & Graphic Novels"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "comicsContent": true,
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3gAvEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3gAvEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=3gAvEAAAQBAJ&printsec=frontcover&dq=search+terms%3DHellsing&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=3gAvEAAAQBAJ&dq=search+terms%3DHellsing&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hellsing_Deluxe_Volume_3.html?hl=&id=3gAvEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Hellsing_Deluxe_Volume_3-sample-pdf.acsm?id=3gAvEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3gAvEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The international hit manga series concludes in this deluxe hardcover edition, collecting Kohta Hirano&#39;s action- horror epic for the first time in its original 7x10 serialized format."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rmccQgAACAAJ",
+      "etag": "EiP7GeF10n4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rmccQgAACAAJ",
+      "volumeInfo": {
+        "title": "Hellsing",
+        "subtitle": "Ultimate Fan Guide",
+        "authors": [
+          "Anthony Ragan",
+          "Adam Jury"
+        ],
+        "publisher": "Guardians of Order",
+        "publishedDate": "2003-06-15",
+        "description": "A guide to the characters of the manga comic book and Fuji television program which aired in 2002-2003.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1894525620"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781894525626"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 80,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rmccQgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=rmccQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=rmccQgAACAAJ&dq=search+terms%3DHellsing&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=rmccQgAACAAJ&dq=search+terms%3DHellsing&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hellsing.html?hl=&id=rmccQgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rmccQgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A guide to the characters of the manga comic book and Fuji television program which aired in 2002-2003."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9pMsEAAAQBAJ",
+      "etag": "YCv7hAwqRpg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9pMsEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Ham Helsing #1: Vampire Hunter",
+        "authors": [
+          "Rich Moyer"
+        ],
+        "publisher": "Crown Books for Young Readers",
+        "publishedDate": "2021-06-01",
+        "description": "The monster hunt is on! A rip-roaring graphic novel adventure about the latest in a famous family of vampire-hunting pigs, inspired by legendary monster slayer Van Helsing! Ham Helsing is the descendant of a long line of adventurers and monster hunters--who don't often live to rest on their laurels. Ham has always been the odd pig out, preferring to paint or write poetry instead of inventing dangerous (dumb) new ways to catch dangerous creatures. His brother Chad was the daredevil carrying on the family legacy of leaping before looking, but after his death, it's down to Ham. Reluctantly, he sets out on his first assignment, to hunt a vampire. But Ham soon learns that people aren't always what they seem and that you need a good team around you to help save your bacon!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780593308912"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0593308913"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 242,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": true,
+          "imageBubbleVersion": "dad982da1d604365_A"
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9pMsEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9pMsEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=9pMsEAAAQBAJ&printsec=frontcover&dq=search+terms%3DHellsing&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=9pMsEAAAQBAJ&dq=search+terms%3DHellsing&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ham_Helsing_1_Vampire_Hunter.html?hl=&id=9pMsEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9pMsEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The monster hunt is on!"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "svuXxq3SfpsC",
+      "etag": "b1cNIjlaB2M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/svuXxq3SfpsC",
+      "volumeInfo": {
+        "title": "Rip Van Winkle and The Legend of Sleepy Hollow",
+        "authors": [
+          "Washington Irving"
+        ],
+        "publishedDate": "1893",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:32044005284948"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 218,
+        "printType": "BOOK",
+        "categories": [
+          "Avarice"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 15,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.6.0.full.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=svuXxq3SfpsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=svuXxq3SfpsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=svuXxq3SfpsC&printsec=frontcover&dq=search+terms%3DHellsing&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=svuXxq3SfpsC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=svuXxq3SfpsC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=svuXxq3SfpsC&rdid=book-svuXxq3SfpsC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/Rip_Van_Winkle_and_The_Legend_of_Sleepy.epub?id=svuXxq3SfpsC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/Rip_Van_Winkle_and_The_Legend_of_Sleepy.pdf?id=svuXxq3SfpsC&hl=&output=pdf&sig=ACfU3U011mXQeKkCnpYbISUr_N_hMTvSTw&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=svuXxq3SfpsC&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "66pJEAAAQBAJ",
+      "etag": "nk6aa/5HxAM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/66pJEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Ham Helsing #2: Monster Hunter",
+        "authors": [
+          "Rich Moyer"
+        ],
+        "publisher": "Crown Books for Young Readers",
+        "publishedDate": "2022-06-14",
+        "description": "The uproarious next installment of the Ham Helsing graphic novel series sees Ham and his crew back to fight monsters at mysterious Camp Fish Head Lake! Ham Helsing is a winner!” --Lincoln Peirce, writer and artist of New York Times bestselling series Big Nate and Max & the Midknights After an invitation to \"peaceful\" Camp Fish Head Lake, Ham and his buddies arrive expecting to be guests of honor. But there are no staff to be seen, and with kids (and their overprotective parents) arriving, they decide to just go with the flow. How hard can it be to keep a few kids out of trouble? But the camp turns out to be not so monster-free--and definitely not the kind of lake you want to go fishing in! Ham and his friends have their hands full as campers start to go missing and will have to work together and trust each other to figure out what's going on--especially when old foes return.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780593308974"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0593308972"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 240,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": true,
+          "containsImageBubbles": true,
+          "epubBubbleVersion": "9216abe8772e4fb2_A",
+          "imageBubbleVersion": "9216abe8772e4fb2_A"
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=66pJEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=66pJEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=66pJEAAAQBAJ&pg=PP1&dq=search+terms%3DHellsing&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=66pJEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=66pJEAAAQBAJ",
+        "seriesInfo": {
+          "kind": "books#volume_series_info",
+          "bookDisplayNumber": "2",
+          "volumeSeries": [
+            {
+              "seriesId": "fGstGwAAABBQcM",
+              "seriesBookType": "ISSUE",
+              "orderNumber": 2
+            }
+          ]
+        }
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 7.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 7.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=66pJEAAAQBAJ&rdid=book-66pJEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 7990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 7990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Ham_Helsing_2_Monster_Hunter-sample-epub.acsm?id=66pJEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Ham_Helsing_2_Monster_Hunter-sample-pdf.acsm?id=66pJEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=66pJEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The uproarious next installment of the Ham Helsing graphic novel series sees Ham and his crew back to fight monsters at mysterious Camp Fish Head Lake!"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-HoEDAAAQBAJ",
+      "etag": "eUKNzmKy6oc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-HoEDAAAQBAJ",
+      "volumeInfo": {
+        "title": "Hellsing",
+        "authors": [
+          "Kohta Hirano"
+        ],
+        "publisher": "Dark Horse Comics",
+        "publishedDate": "2005-09",
+        "description": "Chronicles the exploits of the secret Hellsing Organization, formed by the Hellsing family to protect England and the Protestant church from vampires and other monsters, and its top operative, the vampire Alucard.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781593073480"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1593073488"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 196,
+        "printType": "BOOK",
+        "categories": [
+          "Comics & Graphic Novels"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.0.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": true,
+          "imageBubbleVersion": "86dc6ea0a4dcde1d"
+        },
+        "comicsContent": true,
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-HoEDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-HoEDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=-HoEDAAAQBAJ&pg=PA1&dq=search+terms%3DHellsing&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=-HoEDAAAQBAJ&dq=search+terms%3DHellsing&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hellsing.html?hl=&id=-HoEDAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Hellsing-sample-pdf.acsm?id=-HoEDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-HoEDAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Chronicles the exploits of the secret Hellsing Organization, formed by the Hellsing family to protect England and the Protestant church from vampires and other monsters, and its top operative, the vampire Alucard."
+      }
+    }
+  ]
+}

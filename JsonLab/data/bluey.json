@@ -1,0 +1,734 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 2018,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "p79WEAAAQBAJ",
+      "etag": "akn4elUZSWE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/p79WEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Where's Bluey?",
+        "subtitle": "A Search-and-Find Book",
+        "authors": [
+          "Penguin Young Readers Licenses"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2022-01-25",
+        "description": "Find Bluey and Bingo in this search-and-find activity book! Have you seen Bluey and Bingo? There are lots of other hidden items, too, so join the fun in this search-and-find book!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780593385692"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0593385691"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 33,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=p79WEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=p79WEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=p79WEAAAQBAJ&printsec=frontcover&dq=search+terms%3Dbluey&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=p79WEAAAQBAJ&dq=search+terms%3Dbluey&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Where_s_Bluey.html?hl=&id=p79WEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=p79WEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Find Bluey and Bingo in this search-and-find activity book! Have you seen Bluey and Bingo? There are lots of other hidden items, too, so join the fun in this search-and-find book!"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RsGyzgEACAAJ",
+      "etag": "gOJQw53xW1g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RsGyzgEACAAJ",
+      "volumeInfo": {
+        "title": "Bluey: Where's Bluey?",
+        "subtitle": "A Search-and-Find Book",
+        "authors": [
+          "Bluey"
+        ],
+        "publisher": "Ladybird",
+        "publishedDate": "2022-07-07",
+        "description": "Have you seen Bluey and Bingo? Join Bluey on the beach, in the backyard and at the park in this jam-packed search-and-find activity book. With over 140 items to spot, this book is perfect for keeping the biggest Bluey fans busy.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0241558573"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780241558577"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RsGyzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RsGyzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=RsGyzgEACAAJ&dq=search+terms%3Dbluey&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=RsGyzgEACAAJ&dq=search+terms%3Dbluey&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bluey_Where_s_Bluey.html?hl=&id=RsGyzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RsGyzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Have you seen Bluey and Bingo? Join Bluey on the beach, in the backyard and at the park in this jam-packed search-and-find activity book. With over 140 items to spot, this book is perfect for keeping the biggest Bluey fans busy."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "B7tZAAAAMAAJ",
+      "etag": "e96ZBH2RZQg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/B7tZAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Australian Words and Their Origins",
+        "authors": [
+          "Joan Hughes"
+        ],
+        "publisher": "Oxford University Press, USA",
+        "publishedDate": "1989",
+        "description": "This is a concise edition of the Australian National Dictionary (OUP 1989) which was hailed as a major asset for readers studying Australian literature that made all earlier dictionaries of Australian English obsolete. The volume contains nearly as many headwords as the original edition, yet provides fewer collations, and indicates the first recorded, and most recent, use of a word. It retains the parent volume's comprehensive coverage of uniquely Australian words and phrases; words for indigenous flora, fauna, and pastimes; and Aboriginal terms.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015024954771"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 661,
+        "printType": "BOOK",
+        "categories": [
+          "Australia"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=B7tZAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=B7tZAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=B7tZAAAAMAAJ&q=search+terms%3Dbluey&dq=search+terms%3Dbluey&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=B7tZAAAAMAAJ&dq=search+terms%3Dbluey&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Australian_Words_and_Their_Origins.html?hl=&id=B7tZAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=B7tZAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "17/1 \u003cb\u003eTerm\u003c/b\u003e &#39; \u003cb\u003ebluey\u003c/b\u003e &#39; never applied to swag in Tasmania . The Tas . &#39; bluey &#39; is a rough ... 36/1 We had no knowledge of scientific terms . ... Rather let him arm himself with a billy , and &#39; hump bluey &#39; incognito in \u003cb\u003esearch\u003c/b\u003e of work ."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uTtfEAAAQBAJ",
+      "etag": "2oK0r20YU6g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uTtfEAAAQBAJ",
+      "volumeInfo": {
+        "title": "My Dad Is Awesome by Bluey and Bingo",
+        "authors": [
+          "Penguin Young Readers Licenses"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2022-03-15",
+        "description": "Bluey and Bingo share why their dad is awesome in this hilarious and heartwarming picture book, featuring everyone's favorite Heelers. Based on the on the wildly successful animated series, Bluey, as seen on Disney+. Everyone loves Bandit, but especially Bluey and Bingo! He's always making up funny games, playing Daddy Robot, and taking them on exciting adventures. This is the perfect book to celebrate your dad on Father's Day, or any day, and share what makes him awesome!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780593519653"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0593519655"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 49,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=uTtfEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=uTtfEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=uTtfEAAAQBAJ&printsec=frontcover&dq=search+terms%3Dbluey&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=uTtfEAAAQBAJ&dq=search+terms%3Dbluey&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/My_Dad_Is_Awesome_by_Bluey_and_Bingo.html?hl=&id=uTtfEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uTtfEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "He&#39;s always making up funny games, playing Daddy Robot, and taking them on exciting adventures. This is the perfect book to celebrate your dad on Father&#39;s Day, or any day, and share what makes him awesome!"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tU3iDwAAQBAJ",
+      "etag": "OLB6q6rBRGg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tU3iDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Bluey: All About Bingo",
+        "authors": [
+          "Bluey"
+        ],
+        "publisher": "Random House Australia",
+        "publishedDate": "2020-06-02",
+        "description": "Meet Bingo! Bingo Heeler loves getting lost in her own world, talking to tiny bugs and, of course, relaxing in her relaxing chair! Get to know all about Bluey's little sister in this fun shaped board book. Bluey has been a phenomenal success since airing on ABC KIDS in October 2018, amassing legions of dedicated fans and taking the coveted position of being the most watched program ever on ABC iView, with over 200 million plays. It has also topped the Australian iTunes Kids Chart with the series peaking at #1 and consistently remaining in the Top 5.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781760898298"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1760898295"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 7,
+        "printType": "BOOK",
+        "categories": [
+          "Australian cattle dog"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=tU3iDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=tU3iDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=tU3iDwAAQBAJ&dq=search+terms%3Dbluey&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=tU3iDwAAQBAJ&dq=search+terms%3Dbluey&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bluey_All_About_Bingo.html?hl=&id=tU3iDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tU3iDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "It has also topped the Australian iTunes Kids Chart with the series peaking at #1 and consistently remaining in the Top 5."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qN1GEAAAQBAJ",
+      "etag": "UB4eXhRl95Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qN1GEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Bluey: The Pool",
+        "authors": [
+          "Bluey"
+        ],
+        "publisher": "Penguin UK",
+        "publishedDate": "2022-04-14",
+        "description": "On a trip to the pool Bluey and Dad tease Mum about being fussy and over-prepared, but they soon realise that's what makes the fun things possible. Fans of Bluey will love this thick, 24 page board book, and is a perfect bedtime story! Also available: Bluey: At the Beach 9780241486948 Bluey: Meet Bluey! Sticker Activity Book 9780241486924 Bluey: Little Library 9780241486900",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780241560990"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0241560993"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 24,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qN1GEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qN1GEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=qN1GEAAAQBAJ&printsec=frontcover&dq=search+terms%3Dbluey&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=qN1GEAAAQBAJ&dq=search+terms%3Dbluey&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bluey_The_Pool.html?hl=&id=qN1GEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Bluey_The_Pool-sample-epub.acsm?id=qN1GEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Bluey_The_Pool-sample-pdf.acsm?id=qN1GEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qN1GEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Fans of Bluey will love this thick, 24 page board book, and is a perfect bedtime story! Also available: Bluey: At the Beach 9780241486948 Bluey: Meet Bluey! Sticker Activity Book 9780241486924 Bluey: Little Library 9780241486900"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EuY9EAAAQBAJ",
+      "etag": "QroiNDqM3zA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EuY9EAAAQBAJ",
+      "volumeInfo": {
+        "title": "Bluey: Grannies",
+        "authors": [
+          "Penguin Young Readers Licenses"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2021-09-14",
+        "description": "Read along in this picture book and join Bluey's latest adventure! Based on the on the wildly successful animated series, Bluey, as seen on Disney+ Join Bluey and Bingo as they try to answer the question: can grannies dance? This picture book retells one of the funniest Bluey episodes: \"Grannies!\" Once again, everyone's favorite Blue Heelers Bingo and Bluey use their limitless energy to explore their world in unpredictable and hilarious ways.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780593384169"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0593384164"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 25,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=EuY9EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=EuY9EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=EuY9EAAAQBAJ&printsec=frontcover&dq=search+terms%3Dbluey&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=EuY9EAAAQBAJ&dq=search+terms%3Dbluey&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bluey_Grannies.html?hl=&id=EuY9EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EuY9EAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Read along in this picture book and join Bluey&#39;s latest adventure! Based on the on the wildly successful animated series, Bluey, as seen on Disney+ Join Bluey and Bingo as they try to answer the question: can grannies dance?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gC7AzgEACAAJ",
+      "etag": "An2BnjMQ0P0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gC7AzgEACAAJ",
+      "volumeInfo": {
+        "title": "Bluey: All About Bluey",
+        "subtitle": "A Bluey-Shaped Board Book",
+        "authors": [
+          "Bluey"
+        ],
+        "publisher": "Ladybird",
+        "publishedDate": "2022-09",
+        "description": "Meet Bluey! Bluey Heeler loves to play, explore and use her imagination to turn everyday life into an amazing adventure. Learn all about Bluey in this fun shaped board book for kids of all ages. The perfect introduction to Bluey! Want more Bluey? Also available: Bluey: Where's Bluey? Search-and-Find book Bluey: Meet Bluey! Sticker Activity Book Bluey: At the Beach Look out for Bluey: Bingo - coming soon!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0241551854"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780241551851"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gC7AzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gC7AzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=gC7AzgEACAAJ&dq=search+terms%3Dbluey&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=gC7AzgEACAAJ&dq=search+terms%3Dbluey&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bluey_All_About_Bluey.html?hl=&id=gC7AzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gC7AzgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Learn all about Bluey in this fun shaped board book for kids of all ages. The perfect introduction to Bluey! Want more Bluey? Also available: Bluey: Where&#39;s Bluey? Search-and-Find book Bluey: Meet Bluey!"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jn_-DwAAQBAJ",
+      "etag": "N/TKV+5iohQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jn_-DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Bluey: Hooray, It's Christmas!",
+        "authors": [
+          "Bluey"
+        ],
+        "publisher": "Random House Australia",
+        "publishedDate": "2020-11-03",
+        "description": "Get into the holiday spirit with Bluey and Bingo! Write a letter to Verandah Santa, make your own Christmas labels and have fun with stickers.\"--Back cover.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781761040009"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1761040006"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 38,
+        "printType": "BOOK",
+        "categories": [
+          "Australian cattle dog"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jn_-DwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jn_-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=jn_-DwAAQBAJ&pg=PP1&dq=search+terms%3Dbluey&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=jn_-DwAAQBAJ&dq=search+terms%3Dbluey&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bluey_Hooray_It_s_Christmas.html?hl=&id=jn_-DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jn_-DwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IkmHEAAAQBAJ",
+      "etag": "8OK1R48DNkA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IkmHEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Bluey: At Home with the Heelers",
+        "authors": [
+          "Penguin Young Readers Licenses"
+        ],
+        "publisher": "Penguin",
+        "publishedDate": "2022-10-04",
+        "description": "Meet Bluey and the Heeler family in this adorable shaped board book! Based on the wildly successful animated series Bluey, as seen on Disney+ Spend the day with Bluey, Bingo, and their parents in their home! Play Hairdresser with Bluey, Rug Island with Bingo, and more in this colorful shaped board book.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780593521151"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0593521153"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 13,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=IkmHEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=IkmHEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=IkmHEAAAQBAJ&printsec=frontcover&dq=search+terms%3Dbluey&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=IkmHEAAAQBAJ&dq=search+terms%3Dbluey&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bluey_At_Home_with_the_Heelers.html?hl=&id=IkmHEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IkmHEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Meet Bluey and the Heeler family in this adorable shaped board book!"
+      }
+    }
+  ]
+}

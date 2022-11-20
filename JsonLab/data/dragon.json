@@ -1,0 +1,758 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 200,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "m_IluAEACAAJ",
+      "etag": "eoEqbAjXTPE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/m_IluAEACAAJ",
+      "volumeInfo": {
+        "title": "How to Train Your Dragon",
+        "authors": [
+          "Cressida Cowell"
+        ],
+        "publisher": "Hodder Children's Books",
+        "publishedDate": "2018-11-27",
+        "description": "Read the book that inspired the hit DreamWorks film How to Train Your Dragon 3. THE STORY BEGINS in the first volume of Hiccup's How to Train Your Dragon memoirs... Hiccup Horrendous Haddock III was an awesome sword-fighter, a dragon-whisperer and the greatest Viking Hero who ever lived. But it wasn't always like that. In fact, in the beginning, Hiccup Horrendous Haddock III was the most put upon Viking you'd ever seen. Not loud enough to make himself heard at dinner with his father, Stoick the Vast; not hard enough to beat his chief rival, Snotlout, at Bashyball, the number one school sport and CERTAINLY not stupid enough to go into a cave full of dragons to find a pet... It's time for Hiccup to learn how to be a Hero. Read all of Hiccup's exploits in the How to Train Your Dragon series: How to Train Your Dragon, How to Be a Pirate, How to Speak Dragonese, How to Cheat a Dragon's Curse, How to Twist a Dragon's Tale, A Hero's Guide to Deadly Dragons, How to Ride a Dragon's Storm, How to Break a Dragon's Heart, How to Steal a Dragon's Sword, How to Seize a Dragon's Jewel and How to Betray a Dragon's Hero.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "144495038X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781444950380"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 240,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=m_IluAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=m_IluAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=m_IluAEACAAJ&dq=search+terms%3Dhow_to_train_your_dragon&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=m_IluAEACAAJ&dq=search+terms%3Dhow_to_train_your_dragon&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/How_to_Train_Your_Dragon.html?hl=&id=m_IluAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=m_IluAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Read the book that inspired the hit DreamWorks film How to Train Your Dragon 3. THE STORY BEGINS in the first volume of Hiccup&#39;s How to Train Your Dragon memoirs."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BK19nQEACAAJ",
+      "etag": "yu6KuDbLFSs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BK19nQEACAAJ",
+      "volumeInfo": {
+        "title": "How to Cheat a Dragon's Curse",
+        "authors": [
+          "Cressida Cowell"
+        ],
+        "publishedDate": "2010-04-20",
+        "description": "Hiccup Horrendous Haddock III must rescue his best friend, Fishlegs, from the deadly disease Vorpentitis. The only cure is rare and almost impossible to find--a potato. But where will Hiccup find such a thing?",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1536433861"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781536433869"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 272,
+        "printType": "BOOK",
+        "categories": [
+          "Best friends"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 5,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=BK19nQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=BK19nQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=BK19nQEACAAJ&dq=search+terms%3Dhow_to_train_your_dragon&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=BK19nQEACAAJ&dq=search+terms%3Dhow_to_train_your_dragon&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/How_to_Cheat_a_Dragon_s_Curse.html?hl=&id=BK19nQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BK19nQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Hiccup Horrendous Haddock III must rescue his best friend, Fishlegs, from the deadly disease Vorpentitis. The only cure is rare and almost impossible to find--a potato. But where will Hiccup find such a thing?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Cj1snAEACAAJ",
+      "etag": "+jA8PkoXO0U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Cj1snAEACAAJ",
+      "volumeInfo": {
+        "title": "How to Train Your Viking",
+        "authors": [
+          "Cressida Cowell"
+        ],
+        "publisher": "Hodder Children's Books Australia",
+        "publishedDate": "2006-02-02",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0340930632"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780340930632"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "averageRating": 1,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Cj1snAEACAAJ&dq=search+terms%3Dhow_to_train_your_dragon&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=Cj1snAEACAAJ&dq=search+terms%3Dhow_to_train_your_dragon&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/How_to_Train_Your_Viking.html?hl=&id=Cj1snAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Cj1snAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Toothless is the dragon of a truly extraordinary Viking Hero called Hiccup Horrendous Haddock III. Hiccup has witten three books so far, and now Toothless has his say."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NULjjwEACAAJ",
+      "etag": "pnhKGB/WVcA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NULjjwEACAAJ",
+      "volumeInfo": {
+        "title": "Incomplete Book of Dragons Incomplete Book of Dragons",
+        "authors": [
+          "Cressida Cowell"
+        ],
+        "publisher": "Hodder Children's Books",
+        "publishedDate": "2016-10-06",
+        "description": "Long ago, the world was full of dragons. But what happened to them? Where are they now? These pages are taken from the notebooks of Viking Hero Hiccup Horrendous Haddock the Third when he was just a boy. A keen dragonwatcher, Hiccup paints a picture of the brilliance and fire and spirit of that lost dragon world. Featuring dragon profiles, dragon anatomy, dragon riding tips and lots more must know info e.g. how to spot the difference between an arsenic adderwing and a glow worm (you don't want to mix those two up) and what to do when confronted with a Hellsteether. This is a must for all keen dragonwatchers out there... How to Train Your Dragon is now a major DreamWorks franchise starring Gerard Butler, Cate Blanchett and Jonah Hill and the TV series, Riders of Berk, can be seen on CBeebies and Cartoon Network. Read all of Hiccup's exploits in the series: How to Train Your Dragon, How to Be a Pirate, How to Speak Dragonese, How to Cheat a Dragon's Curse, How to Twist a Dragon's Tale, A Hero's Guide to Deadly Dragons, How to Ride a Dragon's Storm, How to Break a Dragon's Heart, How to Steal a Dragon's Sword, How to Seize a Dragon's Jewel and How to Betray a Dragon's Hero. Check out the brilliant website at www.howtotrainyourdragonbooks.com It's the place to go for games, downloads, activities and sneak peeks!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1444923218"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781444923216"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 224,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=NULjjwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=NULjjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=NULjjwEACAAJ&dq=search+terms%3Dhow_to_train_your_dragon&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=NULjjwEACAAJ&dq=search+terms%3Dhow_to_train_your_dragon&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Incomplete_Book_of_Dragons_Incomplete_Bo.html?hl=&id=NULjjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NULjjwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This is a must for all keen dragonwatchers out there."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TLPyBgAAQBAJ",
+      "etag": "F6Hj8PSRBJg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TLPyBgAAQBAJ",
+      "volumeInfo": {
+        "title": "The Art of Inside Out",
+        "publisher": "Chronicle Books",
+        "publishedDate": "2015-05-26",
+        "description": "From an adventurous balloon ride above the clouds to a monster-filled metropolis, Academy Award®-winning director Pete Docter (\"Monsters, Inc.,\" \"Up\") has taken audiences to unique and imaginative places. In Disney•Pixar's original movie \" Inside Out,\" he will take us to the most extraordinary location of all—inside the mind. Growing up can be a bumpy road, and it's no exception for Riley, who is uprooted from her Midwest life when her father starts a new job in San Francisco. Like all of us, Riley is guided by her emotions – Joy, Fear, Anger, Disgust, and Sadness. The emotions live in Headquarters, the control center inside Riley's mind, where they help advise her through everyday life. As Riley and her emotions struggle to adjust to a new life in San Francisco, turmoil ensues in Headquarters. Although Joy, Riley's main and most important emotion, tries to keep things positive, the emotions conflict on how best to navigate a new city, house and school. In this groundbreaking and illuminating film, Pixar Animation Studios examines the extraordinary depths of the mind and the powers of emotion and imagination. The Art of Inside Out provides an exclusive look into the artistic exploration that went into the making of this vibrant film. Featuring concept art—including sketches, collages, color scripts, and much more—and opening with a foreword by actress Amy Poehler and introduction by the film's writer and director Pete Docter, this is the ultimate behind-the-scenes experience of the making of this landmark film. Copyright ©2015 Disney Enterprises, Inc. and Pixar. All rights reserved.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781452147499"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1452147493"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 179,
+        "printType": "BOOK",
+        "categories": [
+          "Performing Arts"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=TLPyBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=TLPyBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=TLPyBgAAQBAJ&printsec=frontcover&dq=search+terms%3Dhow_to_train_your_dragon&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=TLPyBgAAQBAJ&dq=search+terms%3Dhow_to_train_your_dragon&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Art_of_Inside_Out.html?hl=&id=TLPyBgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Art_of_Inside_Out-sample-epub.acsm?id=TLPyBgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Art_of_Inside_Out-sample-pdf.acsm?id=TLPyBgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TLPyBgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Featuring concept art—including sketches, collages, color scripts, and much more—and opening with a foreword by actress Amy Poehler and introduction by the film&#39;s writer and director Pete Docter, this is the ultimate behind-the-scenes ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GzgdDgAAQBAJ",
+      "etag": "qGWnOQhE0cM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GzgdDgAAQBAJ",
+      "volumeInfo": {
+        "title": "How to Train Your Dragon: The Serpent's Heir",
+        "authors": [
+          "Dean DeBlois",
+          "Richard Hamilton"
+        ],
+        "publisher": "Dark Horse Comics",
+        "publishedDate": "2017-02-28",
+        "description": "The dragons of Berk are coming to Dark Horse! Hiccup, Toothless, and all their dragon-riding friends from DreamWorks Animation's acclaimed How to Train Your Dragon films are starting new adventures in comics! Created with the help of the film's writer, director, and producer Dean DeBlois, these graphic novellas will bridge the gap between the second film and the upcoming third film. More adventures, more dragon lore, and more fun! You won't have to wait years for more dragons; they are coming to you--in comics!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781616559311"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1616559314"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 81,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GzgdDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GzgdDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=GzgdDgAAQBAJ&printsec=frontcover&dq=search+terms%3Dhow_to_train_your_dragon&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=GzgdDgAAQBAJ&dq=search+terms%3Dhow_to_train_your_dragon&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/How_to_Train_Your_Dragon_The_Serpent_s_H.html?hl=&id=GzgdDgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/How_to_Train_Your_Dragon_The_Serpent_s_H-sample-pdf.acsm?id=GzgdDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GzgdDgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Created with the help of the film&#39;s writer, director, and producer Dean DeBlois, these graphic novellas will bridge the gap between the second film and the upcoming third film. More adventures, more dragon lore, and more fun!"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yLJIAgAAQBAJ",
+      "etag": "wI+yRq4vq/s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yLJIAgAAQBAJ",
+      "volumeInfo": {
+        "title": "The Dragon's Eye",
+        "subtitle": "The Dragonology Chronicles, Volume One",
+        "authors": [
+          "Dugald A. Steer"
+        ],
+        "publisher": "Candlewick Press",
+        "publishedDate": "2012-05-08",
+        "description": "For the first time ever, DRAGONOLOGY fiction! Introducing the Dragonology Chronicles — full-length novels with enough fire-breathing adventure to satisfy true Dragonology fans who just can't get enough! Adventure! Villains! And dragons, dragons, dragons! From the creators of the best-selling Dragonology series, this first volume of the Dragonology Chronicles finds Daniel Cook and his sister, Beatrice, studying with eccentric dragonologist Dr. Ernest Drake. Soon they’re caught up in a race to find the stolen Dragon’s Eye — a jewel that has the power to reflect the true Dragon Master — before it is stolen by the evil Ignatius Crook. Working with Dr. Drake (and many friendly dragons), can these young siblings foil Ignatius and recover the Dragon’s Eye?",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780763659998"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0763659991"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 240,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 5,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.2.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=yLJIAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=yLJIAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=yLJIAgAAQBAJ&printsec=frontcover&dq=search+terms%3Dhow_to_train_your_dragon&hl=&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=yLJIAgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=yLJIAgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 7.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 6.39,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=yLJIAgAAQBAJ&rdid=book-yLJIAgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 7990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 6390000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Dragon_s_Eye-sample-epub.acsm?id=yLJIAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yLJIAgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "And dragons, dragons, dragons! From the creators of the best-selling Dragonology series, this first volume of the Dragonology Chronicles finds Daniel Cook and his sister, Beatrice, studying with eccentric dragonologist Dr. Ernest Drake."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "j2auQ2_jqP8C",
+      "etag": "7SatrjveSZ4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/j2auQ2_jqP8C",
+      "volumeInfo": {
+        "title": "The Artist's Guide to Drawing Animals",
+        "subtitle": "How to Draw Cats, Dogs, and Other Favorite Pets",
+        "authors": [
+          "J.C. Amberlyn"
+        ],
+        "publisher": "Watson-Guptill",
+        "publishedDate": "2012-11-20",
+        "description": "In this step-by-step how-to guide to creating classic portraits of animals in pencil and pen-and-ink, artist J. C. Amberlyn combines her love of pets and other familiar domestic creatures with her beautiful, detailed drawing style. Covering a variety of animals from dogs and cats to barnyard critters like cows and sheep and many more, the book covers every species with easy-to-follow instructions for drawing them from every angle imaginable. Along with seven featured examinations of Amberlyn’s artistic process, each chapter showcases the tools and techniques needed to produce your own highly detailed, lifelike drawings of a variety of well-known animal companions. The worlds of artists and animal lovers come together in this richly illustrated, in-depth guide to producing charming portraits of some of the most popular pets and domesticated creatures. Also available as an eBook",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780823014231"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0823014231"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 194,
+        "printType": "BOOK",
+        "categories": [
+          "Art"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=j2auQ2_jqP8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=j2auQ2_jqP8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=j2auQ2_jqP8C&printsec=frontcover&dq=search+terms%3Dhow_to_train_your_dragon&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=j2auQ2_jqP8C&dq=search+terms%3Dhow_to_train_your_dragon&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Artist_s_Guide_to_Drawing_Animals.html?hl=&id=j2auQ2_jqP8C"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=j2auQ2_jqP8C&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Covering a variety of animals from dogs and cats to barnyard critters like cows and sheep and many more, the book covers every species with easy-to-follow instructions for drawing them from every angle imaginable."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PsHXCgAAQBAJ",
+      "etag": "Rq9TzmK2H6U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PsHXCgAAQBAJ",
+      "volumeInfo": {
+        "title": "The Art of Brave",
+        "authors": [
+          "Jenny Lerew"
+        ],
+        "publisher": "Chronicle Books",
+        "publishedDate": "2015-11-10",
+        "description": "Brave is Pixar's thirteenth feature film, but it marks two big firsts for the award-winning animation studio. It's Pixar's first feature film driven by a female lead and its first set in an ancient historical period. Against a backdrop of castles, forests, and highlands, Brave follows the fiery Merida as she clashes with the duty of her royal life and embarks on a journey through the rugged landscape of the dark ages of Scotland. At once epic and intimate, the latest Pixar masterpiece weaves a story of magic, danger, and adventure and the fierce bonds of family. Featuring behind-the-scenes interviews with the film's many artists and filmmakers, The Art of Brave showcases the gorgeous concept art that went into the making of this movie, including color scripts, storyboards, character studies, environment art, sculpts, and more. A Foreword by Brenda Chapman and Mark Andrews, the film's directors, and a preface by Chief Creative Officer John Lasseter shed light on the creation of this landmark film.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781452147208"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1452147205"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 165,
+        "printType": "BOOK",
+        "categories": [
+          "Performing Arts"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=PsHXCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=PsHXCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=PsHXCgAAQBAJ&printsec=frontcover&dq=search+terms%3Dhow_to_train_your_dragon&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=PsHXCgAAQBAJ&dq=search+terms%3Dhow_to_train_your_dragon&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Art_of_Brave.html?hl=&id=PsHXCgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Art_of_Brave-sample-epub.acsm?id=PsHXCgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/The_Art_of_Brave-sample-pdf.acsm?id=PsHXCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PsHXCgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Featuring behind-the-scenes interviews with the film&#39;s many artists and filmmakers, The Art of Brave showcases the gorgeous concept art that went into the making of this movie, including color scripts, storyboards, character studies, ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6GxGuwEACAAJ",
+      "etag": "jxtxRC60r4I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6GxGuwEACAAJ",
+      "volumeInfo": {
+        "title": "How to Train Your Dragon",
+        "authors": [
+          "Cressida Cowell"
+        ],
+        "publisher": "Little, Brown Books for Young Readers",
+        "publishedDate": "2019-01-29",
+        "description": "A young Viking boy goes on an adventure with Toothless, his mischievous dragon, in the New York Times bestselling book that inspired the hit movie trilogy! Action-packed, hilarious, and perfectly illustrated, How to Train Your Dragon is a beloved modern classic with millions of fans across the globe. This edition features cover art from the Dreamworks film How to Train Your Dragon: The Hidden World and bonus excerpts from other exciting books by Cressida Cowell. In the book that started it all, Hiccup Horrendous Haddock III, the quiet and thoughtful son of the Chief of the Hairy Hooligans, tries to pass the important initiation test of his Viking clan by catching and training a dragon. Can Hiccup do it without being torn limb from limb? Join his adventures and misadventures as he finds a new way to train dragons--and becomes a hero.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0316531227"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780316531221"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 256,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 10,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=6GxGuwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=6GxGuwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=6GxGuwEACAAJ&dq=search+terms%3Dhow_to_train_your_dragon&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=6GxGuwEACAAJ&dq=search+terms%3Dhow_to_train_your_dragon&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/How_to_Train_Your_Dragon.html?hl=&id=6GxGuwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6GxGuwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This edition features cover art from the Dreamworks film How to Train Your Dragon: The Hidden World and bonus excerpts from other exciting books by Cressida Cowell."
+      }
+    }
+  ]
+}
